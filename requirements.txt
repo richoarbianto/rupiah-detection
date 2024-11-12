@@ -1,0 +1,5 @@
+ultralytics==8.3.23
+gtts
+opencv-python
+playsound
+PyObjC
